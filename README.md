@@ -1,7 +1,7 @@
 # 2-3-project
 
 기초 게임타이틀 UI및 캐릭터 선택 UI 제작
-![My project - Title - Windows, Mac, Linux - Unity 2022 3 21f1 _DX11_ 2024-10-01 오전 1_05_05](https://github.com/user-attachments/assets/bdbd476c-9efa-4ca7-9e9c-bf4c74df546b)
+![image](https://github.com/user-attachments/assets/555aa882-1efa-4926-a365-2a097a59c2c7)
 기초 게임타이틀 UI
 Start 버튼 클릭으로 캐릭터 선택 UI로 이동
 Exit 버튼으로 게임 종료 (Online 미완성)
